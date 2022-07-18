@@ -1,0 +1,29 @@
+{
+  "produtos": [
+    {
+      "id": 1,
+      "name": "Caneta bic preta 2",
+      "price": 5.89
+    },
+    {
+      "id": 2,
+      "name": "Noteook Mac Pro",
+      "price": 12
+    },
+    {
+      "id": 3,
+      "name": "Samsung S20+",
+      "price": 5
+    },
+    {
+      "name": "Produto de teste",
+      "price": 125.98,
+      "id": 4
+    },
+    {
+      "name": "Veio do formulario",
+      "price": "99,99",
+      "id": 5
+    }
+  ]
+}
